@@ -1,6 +1,5 @@
 streamlit
 pandas
-scikit-learn
-openpyxl
-xlrd
 numpy
+scikit-learn
+joblib
